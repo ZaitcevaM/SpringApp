@@ -26,7 +26,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="SpringApp" target="1.8" />
+      <module name="SpringApp" target="1.6" />
     </bytecodeTargetLevel>
   </component>
 </project>
